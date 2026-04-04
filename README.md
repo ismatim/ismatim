@@ -6,7 +6,7 @@
 
 ---
 
-### 📡 The Focus
+### The Focus
 
 I specialize in building high-availability distributed systems and full-stack architectures that prioritize performance and maintainability. I enjoy the challenge of bridging low-level system logic with modern, responsive interfaces.
 
@@ -14,11 +14,11 @@ I specialize in building high-availability distributed systems and full-stack ar
 - 🌐 **Full-Stack:** Crafting seamless user experiences using Tailwind CSS and robust backends.
 - 📊 **Data Integrity:** Scaling PostgreSQL and SQLite architectures for production workloads.
 
-### 🧰 Technical Stack
+### Technical Stack
 
 `Javascript` `Go` `Python` `PostgreSQL` `System Distribution` `Distributed Computing` `NodeJS` `React` `NextJS` `TailwindCSS`
 
-### 🗓️ Let's Connect
+### Let's Connect
 
 I'm always open to **talking shop** about system distribution, infrastructure as code, or full-stack patterns.
 
