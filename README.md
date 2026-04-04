@@ -1,6 +1,6 @@
 <img src="office.png" align="right" width="350" style="margin-left: 20px" />
 
-# 🏗️ Ismael J. Tisminetzky
+# Ismael J. Tisminetzky
 
 **Full-Stack Architect | AI / Machine Learning Engineer**
 
