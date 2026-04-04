@@ -1,4 +1,4 @@
-<img src="https://github.com/ismatim/ismatim/raw/main/images/office.png" align="right" width="350" style="margin-left: 20px" />
+<img src="office.png" align="right" width="350" style="margin-left: 20px" />
 
 # 🏗️ Ismael J. Tisminetzky
 
