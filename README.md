@@ -1,4 +1,4 @@
-<img src="office.png" align="right" width="350" style="margin-left: 20px" />
+<img src="office.png" align="right" width="350" height="400" style="margin-left: 20px" />
 
 ### Ismael J. Tisminetzky
 
